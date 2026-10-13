@@ -1,0 +1,4 @@
+Sales Team Directory
+Alice Johnson - alice@company.com - HYD Branch
+Bob Smith bob@company.com - Pune
+Charlie charlie@company.com
